@@ -1,6 +1,6 @@
 # Dm2Share 
 
-## C'est quoi Dm2share? 
+## C'est quoi Dm2Share? 
 
 ###### C'est un programme de transfert de fichiers entre ordinateur et smarphone. 
 
